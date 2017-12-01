@@ -1,2 +1,2 @@
-# EG10112-Final-Project
+# EG10111-Final-Project
 Interactive Pet Prototype
